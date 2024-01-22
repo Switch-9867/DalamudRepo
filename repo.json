@@ -4,7 +4,7 @@
         "Name": "XInput",
         "Punchline": "Rebind Keys that XIV doesn't let you.",
         "Description": "This plugin allows you to rebid any VirtualKey to any other VirtualKey to use in game.",
-        "InternalName": "XInput",
+        "InternalName": "XInputPlugin",
         "AssemblyVersion": "0.0.0.1",
         "RepoUrl": "https://github.com/Switch-9867/XInput",
         "ApplicableVersion": "any",
