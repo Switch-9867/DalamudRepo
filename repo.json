@@ -10,7 +10,7 @@
         "ApplicableVersion": "any",
         "CategoryTags": [],
         "DalamudApiLevel": 9,
-        "IconUrl": "",
+        "IconUrl": "https://raw.githubusercontent.com/Switch-9867/DalamudRepo/main/icons/xinput.png",
         "ImageUrls": [
             ""
         ],
@@ -19,7 +19,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Switch-9867/XInput/releases/download/0.1.0/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Switch-9867/XInput/releases/download/0.1.0/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1680237651"
+        "DownloadCount": 1,
+        "LastUpdate": "1705885637"
     }
 ]
