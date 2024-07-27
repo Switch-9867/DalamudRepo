@@ -9,7 +9,7 @@
         "RepoUrl": "https://github.com/Switch-9867/XInput",
         "ApplicableVersion": "any",
         "CategoryTags": [],
-        "DalamudApiLevel": 9,
+        "DalamudApiLevel": 10,
         "IconUrl": "https://raw.githubusercontent.com/Switch-9867/DalamudRepo/main/icons/xinput.png",
         "ImageUrls": [
             ""
