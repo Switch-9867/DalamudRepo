@@ -14,12 +14,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/Switch-9867/XInput/releases/download/0.1.2/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Switch-9867/XInput/releases/download/0.1.2/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Switch-9867/XInput/releases/download/0.1.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
         "DownloadCount": 1,
-        "LastUpdate": "1705888309"
+        "LastUpdate": "1722039942"
     }
 ]
