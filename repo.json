@@ -1,25 +1,34 @@
 [
-    {
-        "Author": "Switch.lol",
-        "Name": "XInput",
-        "Punchline": "Rebind Keys that XIV doesn't let you.",
-        "Description": "This plugin allows you to rebid any VirtualKey to any other VirtualKey to use in game.",
-        "InternalName": "XInputPlugin",
-        "AssemblyVersion": "0.0.0.2",
-        "RepoUrl": "https://github.com/Switch-9867/XInput",
-        "ApplicableVersion": "any",
-        "CategoryTags": [],
-        "DalamudApiLevel": 10,
-        "IconUrl": "https://raw.githubusercontent.com/Switch-9867/DalamudRepo/main/icons/xinput.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Switch-9867/XInput/releases/download/0.2.0/latest.zip",
-        "DownloadCount": 1,
-        "LastUpdate": "1722039943"
-    }
+  {
+    "Author": "Switch.lol",
+    "Name": "XInput",
+    "Punchline": "Rebind Keys that XIV doesn't let you.",
+    "Description": "This plugin allows you to rebid any VirtualKey to any other VirtualKey to use in game.",
+    "InternalName": "XInputPlugin",
+    "AssemblyVersion": "0.0.0.2",
+    "RepoUrl": "https://github.com/Switch-9867/XInput",
+    "ApplicableVersion": "any",
+    "CategoryTags": [],
+    "DalamudApiLevel": 11,
+    "IconUrl": "https://raw.githubusercontent.com/Switch-9867/DalamudRepo/main/icons/xinput.png",
+    "ImageUrls": [
+      ""
+    ],
+    "DownloadLinkInstall": "https://github.com/Switch-9867/XInput/releases/download/0.2.1/latest.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/Switch-9867/XInput/releases/download/0.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Switch-9867/XInput/releases/download/0.2.1/latest.zip",
+    "DownloadCount": 1,
+    "LastUpdate": "1722039944",
+    "Tags": [
+      "input",
+      "plugin"
+    ],
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "AcceptsFeedback": true
+  }
 ]
